@@ -37,7 +37,7 @@ def generate_pay_slip():
         print(f"Loan (11%): {loan[i]}")
         print(f"DA (25%): {da[i]}")
         print(f"Total Salary: {total_salaries[i]}\n")
-
+"Adding new changes here"
 
 # Main function
 if __name__ == "_main_":
